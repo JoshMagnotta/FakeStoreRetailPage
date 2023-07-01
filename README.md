@@ -1,2 +1,0 @@
-# FakeStoreRetailPage
-WIP Retail Page
